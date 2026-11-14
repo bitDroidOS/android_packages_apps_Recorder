@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 bitDroid
+     SPDX-License-Identifier: Apache-2.0
+-->
+<!-- bitDroid: natural colorful icon, each app in its own colors -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillType="evenOdd" android:fillColor="#FFFF8A96" android:pathData="M30.00,48.00 H30.00 A2,2 0 0 1 32.00,50.00 V58.00 A2,2 0 0 1 30.00,60.00 H30.00 A2,2 0 0 1 28.00,58.00 V50.00 A2,2 0 0 1 30.00,48.00 Z" />
+    <path android:fillType="evenOdd" android:fillColor="#FFFF8A96" android:pathData="M38.00,42.00 H38.00 A2,2 0 0 1 40.00,44.00 V64.00 A2,2 0 0 1 38.00,66.00 H38.00 A2,2 0 0 1 36.00,64.00 V44.00 A2,2 0 0 1 38.00,42.00 Z" />
+    <path android:fillType="evenOdd" android:fillColor="#FFFF8A96" android:pathData="M70.00,42.00 H70.00 A2,2 0 0 1 72.00,44.00 V64.00 A2,2 0 0 1 70.00,66.00 H70.00 A2,2 0 0 1 68.00,64.00 V44.00 A2,2 0 0 1 70.00,42.00 Z" />
+    <path android:fillType="evenOdd" android:fillColor="#FFFF8A96" android:pathData="M78.00,48.00 H78.00 A2,2 0 0 1 80.00,50.00 V58.00 A2,2 0 0 1 78.00,60.00 H78.00 A2,2 0 0 1 76.00,58.00 V50.00 A2,2 0 0 1 78.00,48.00 Z" />
+    <path android:fillType="evenOdd" android:fillColor="#FFFFFFFF" android:pathData="M54.00,31.00 H54.00 A7,7 0 0 1 61.00,38.00 V52.00 A7,7 0 0 1 54.00,59.00 H54.00 A7,7 0 0 1 47.00,52.00 V38.00 A7,7 0 0 1 54.00,31.00 Z" />
+    <path android:fillType="evenOdd" android:fillColor="#FFFFFFFF" android:pathData="M44,52 A10,10 0 0 0 64,52 H67 A13,13 0 0 1 55.5,64.9 V71 H52.5 V64.9 A13,13 0 0 1 41,52 Z" />
+    <path android:fillType="evenOdd" android:fillColor="#FFFFFFFF" android:pathData="M46.50,70.00 H61.50 A1.5,1.5 0 0 1 63.00,71.50 V71.50 A1.5,1.5 0 0 1 61.50,73.00 H46.50 A1.5,1.5 0 0 1 45.00,71.50 V71.50 A1.5,1.5 0 0 1 46.50,70.00 Z" />
+</vector>

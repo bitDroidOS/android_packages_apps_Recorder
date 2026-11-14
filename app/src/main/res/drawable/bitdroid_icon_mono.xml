@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2026 bitDroid
+     SPDX-License-Identifier: Apache-2.0
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#66FFFFFF" android:pathData="M54,24 L54,24 A10,10 0 0 1 64,34 L64,52 A10,10 0 0 1 54,62 L54,62 A10,10 0 0 1 44,52 L44,34 A10,10 0 0 1 54,24 Z" />
+    <path android:fillColor="#B3FFFFFF" android:pathData="M47.2,51 a6.8,6.8 0 1,0 13.6,0 a6.8,6.8 0 1,0 -13.6,0 Z" />
+    <path android:strokeColor="#66FFFFFF" android:strokeWidth="4.5" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="#00000000" android:pathData="M36,52 A18,18 0 0 0 72,52" />
+    <path android:strokeColor="#66FFFFFF" android:strokeWidth="4.5" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="#00000000" android:pathData="M54,70 v10 M45,82 h18" />
+    <path android:strokeColor="#B3FFFFFF" android:strokeWidth="3.2" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillColor="#00000000" android:pathData="M26,48 v10 M80,46 v14 M30,44 v18 M76,50 v6" />
+</vector>
